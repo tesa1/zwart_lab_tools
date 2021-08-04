@@ -9,11 +9,11 @@ For the basics differential binding and gene expression
 
 **DiffBind for differential binding analysis of ChIP-seq experiments:** [https://bioconductor.org/packages/release/bioc/vignettes/DiffBind/inst/doc/DiffBind.pdf]
 
-## Visualization <a name="Visualization"></a>
+## Visualization of ChIP-seq data <a name="Visualization"></a>
 
-**DeepTools for heamaps and profiles of ChIP-seq data (linux server):** [https://deeptools.readthedocs.io/en/develop/]
+**DeepTools for heamaps and profiles (linux server):** [https://deeptools.readthedocs.io/en/develop/]
 
-**EaSeq for heatmaps and profiles of ChIP-seq data (Windows):** [https://easeq.net/]
+**EaSeq for heatmaps and profiles (Windows):** [https://easeq.net/]
 
 ## Reviews <a name="reviews"></a>
 
