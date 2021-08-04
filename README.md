@@ -9,7 +9,16 @@ For the basics differential binding and gene expression
 
 **DiffBind for differential binding analysis of ChIP-seq experiments:** [https://bioconductor.org/packages/release/bioc/vignettes/DiffBind/inst/doc/DiffBind.pdf]
 
-## Visualization of ChIP-seq data <a name="Visualization"></a>
+
+## Basic analysis of ChIP-seq data <a name="Basic analysis of ChIP-seq data"></a>
+
+**UCSC Galaxy Cistrome Server for running motif and genomic regions enrichment:** [http://cistrome.org/ap/root]
+
+**CistromeDB Toolkit Giggle analysis (hg38 only!!!!):** [http://dbtoolkit.cistrome.org/]
+
+
+
+## Visualization of ChIP-seq data <a name="Visualization of ChIP-seq data"></a>
 
 **DeepTools for heamaps and profiles (linux server):** [https://deeptools.readthedocs.io/en/develop/]
 
