@@ -15,6 +15,10 @@ For the basics differential binding and gene expression
 
 **EaSeq for heatmaps and profiles (Windows):** [https://easeq.net/]
 
+## Visualization <a name="Visualization"></a>
+
+**ggplot2 in R:** [https://ggplot2.tidyverse.org/, https://r4ds.had.co.nz/data-visualisation.html, http://www.sthda.com/english/wiki/ggplot2-box-plot-quick-start-guide-r-software-and-data-visualization]
+
 ## Reviews <a name="reviews"></a>
 
 These are not implementations as such, but contain useful pointers. Because review papers in this field are more time-sensitive, I have added the month of journal publication. Note that the original preprint may in some cases have been available online long before the published version.
