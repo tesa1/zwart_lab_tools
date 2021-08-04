@@ -31,11 +31,11 @@ For the basics differential binding and gene expression
 **ggpubr in R for statistics in your plot:** [https://rpkgs.datanovia.com/ggpubr/]
 
 
-## Reviews <a name="reviews"></a>
+## Getting help <a name="getting help"></a>
 
 These are not implementations as such, but contain useful pointers. Because review papers in this field are more time-sensitive, I have added the month of journal publication. Note that the original preprint may in some cases have been available online long before the published version.
 
-**(2019-12) Deep learning of pharmacogenomics resources: moving towards precision oncology** [[Briefings in Bioinformatics](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbz144/5669856#186956080)]
+**Biostars -- Sometimes your bioinformatic question has already been asked:** [https://www.biostars.org/]
 
 **(2019-04) Deep learning: new computational modelling techniques for genomics** [[Nature Reviews Genetics paper](https://www.nature.com/articles/s41576-019-0122-6)]
 
