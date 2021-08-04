@@ -12,6 +12,7 @@ For the basics differential binding and gene expression
 ## Visualization <a name="Visualization"></a>
 
 **DeepTools for heamaps and profiles of ChIP-seq data:** [https://deeptools.readthedocs.io/en/develop/]
+![Alt text](~/Desktop/3470-109.jpg?raw=true "Optional Title")
 
 ## Reviews <a name="reviews"></a>
 
