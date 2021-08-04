@@ -4,6 +4,7 @@ A list of tools used by the Zwart lab for genomics analysis and visualizatoin
 ## Differential analysis <a name="differential analysis"></a>
 
 For the basics differential binding and gene expression
+
 **DESeq2 for differential gene expression of RNA-seq experiments:** [https://bioconductor.org/packages/release/bioc/vignettes/DESeq2/inst/doc/DESeq2.html]
 
 **DiffBind for differential binding analysis of ChIP-seq experiments:** [https://bioconductor.org/packages/release/bioc/vignettes/DiffBind/inst/doc/DiffBind.pdf]
