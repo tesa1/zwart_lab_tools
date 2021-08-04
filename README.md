@@ -33,7 +33,7 @@ For the basics differential binding and gene expression
 
 ## Getting help <a name="getting help"></a>
 
-These are not implementations as such, but contain useful pointers. Because review papers in this field are more time-sensitive, I have added the month of journal publication. Note that the original preprint may in some cases have been available online long before the published version.
+Some useful pointers for where to look for help online. 
 
 **Biostars -- Sometimes your bioinformatic question has already been asked:** [https://www.biostars.org/]
 
