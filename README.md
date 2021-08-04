@@ -1,5 +1,5 @@
 # zwart_lab_tools
-A list of tools used by the Zwart lab for genomics analysis and visualizatoin
+A list of tools used by the Zwart lab for genomics analysis and visualization
 
 ## Differential analysis <a name="differential analysis"></a>
 
@@ -9,8 +9,9 @@ For the basics differential binding and gene expression
 
 **DiffBind for differential binding analysis of ChIP-seq experiments:** [https://bioconductor.org/packages/release/bioc/vignettes/DiffBind/inst/doc/DiffBind.pdf]
 
+## Visualization <a name="Visualization"></a>
 
-
+**DeepTools for heamaps and profiles of ChIP-seq data:** [https://deeptools.readthedocs.io/en/develop/]
 
 ## Reviews <a name="reviews"></a>
 
