@@ -1,5 +1,5 @@
 # zwart_lab_tools
-A list of tools used by the Zwart lab for genomics analysis and visualization
+A list of tools routinely used by the Zwart lab for genomics analysis and visualization
 
 ## Differential analysis <a name="differential analysis"></a>
 
