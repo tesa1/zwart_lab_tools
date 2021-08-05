@@ -28,7 +28,7 @@ The easiest way to do basic analysis on your ChIP-seq regions of interest withou
 
 
 
-## Visualization <a name="Visualization"></a>
+## General visualization <a name="General visualization"></a>
 
 **ggplot2 in R:** [https://ggplot2.tidyverse.org/, https://r4ds.had.co.nz/data-visualisation.html, http://www.sthda.com/english/wiki/ggplot2-box-plot-quick-start-guide-r-software-and-data-visualization]
 
