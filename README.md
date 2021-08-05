@@ -20,7 +20,7 @@ For the basics differential binding and gene expression
 
 ## Visualization of ChIP-seq data <a name="Visualization of ChIP-seq data"></a>
 
-**DeepTools for heamaps and profiles (linux server):** [https://deeptools.readthedocs.io/en/develop/]
+**DeepTools for heamaps and profiles (RHPC server):** [https://deeptools.readthedocs.io/en/develop/]
 
 **EaSeq for heatmaps and profiles (Windows):** [https://easeq.net/]
 
@@ -39,5 +39,5 @@ You can always ask your local professionals. In addition, here are some useful p
 
 **BioConductor walk through of RNA-seq exploratoration and differential analysis at the gene-level** [https://bioconductor.org/packages/release/workflows/vignettes/rnaseqGene/inst/doc/rnaseqGene.html]
 
-**Unix tutorial for basic commands on the server** [http://www.ee.surrey.ac.uk/Teaching/Unix/unix1.html, http://www.ee.surrey.ac.uk/Teaching/Unix/unix2.html]
+**Unix tutorial for basic commands on the RHPC server** [http://www.ee.surrey.ac.uk/Teaching/Unix/unix1.html, http://www.ee.surrey.ac.uk/Teaching/Unix/unix2.html]
 
