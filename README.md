@@ -33,9 +33,9 @@ For the basics differential binding and gene expression
 
 ## Getting help and tutorials <a name="getting help and tutorials"></a>
 
-Some useful pointers for where to look for help online. 
+You can always ask your local professionals. In addition, here are some useful pointers for where to look for help online. 
 
-**Biostars -- Sometimes your bioinformatic question has already been asked:** [https://www.biostars.org/]
+**Biostars -- Sometimes your bioinformatic question has already been answered:** [https://www.biostars.org/]
 
 **BioConductor walk through of RNA-seq exploratoration and differential analysis at the gene-level** [https://bioconductor.org/packages/release/workflows/vignettes/rnaseqGene/inst/doc/rnaseqGene.html]
 
