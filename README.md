@@ -1,9 +1,9 @@
 # Zwart Lab Tools
-A list of tools routinely used by the Zwart lab for genomics analysis and visualization
+A list of tools routinely used by the Zwart lab for genomics analysis and visualization.
 
 ## Differential analysis (RNA-seq and ChIP-seq) <a name="differential analysis"></a>
 
-For the basics differential binding and gene expression
+For the basics differential binding and gene expression and tutorials to guide you through.
 
 **DESeq2 for differential gene expression of RNA-seq experiments:** [https://bioconductor.org/packages/release/bioc/vignettes/DESeq2/inst/doc/DESeq2.html]
 
