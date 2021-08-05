@@ -34,6 +34,8 @@ The easiest way to do basic analysis on your ChIP-seq regions of interest withou
 
 **ggpubr in R for statistics in your plot:** [https://rpkgs.datanovia.com/ggpubr/]
 
+**Cool color palettes in R:** [https://github.com/karthik/wesanderson,https://www.datanovia.com/en/blog/top-r-color-palettes-to-know-for-great-data-visualization/]
+
 
 ## Gene set enrichment analysis <a name="gene set enrichment analysis"></a>
 
