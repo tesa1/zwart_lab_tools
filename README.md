@@ -31,12 +31,13 @@ For the basics differential binding and gene expression
 **ggpubr in R for statistics in your plot:** [https://rpkgs.datanovia.com/ggpubr/]
 
 
-## Getting help <a name="getting help"></a>
+## Getting help and tutorials <a name="getting help and tutorials"></a>
 
 Some useful pointers for where to look for help online. 
 
 **Biostars -- Sometimes your bioinformatic question has already been asked:** [https://www.biostars.org/]
 
-**(2019-04) Deep learning: new computational modelling techniques for genomics** [[Nature Reviews Genetics paper](https://www.nature.com/articles/s41576-019-0122-6)]
+**BioConductor walk through of RNA-seq exploratoration and differential analysis at the gene-level** [https://bioconductor.org/packages/release/workflows/vignettes/rnaseqGene/inst/doc/rnaseqGene.html]
 
+**Unix tutorial for basic commands on the server** [http://www.ee.surrey.ac.uk/Teaching/Unix/unix1.html, http://www.ee.surrey.ac.uk/Teaching/Unix/unix2.html]
 
