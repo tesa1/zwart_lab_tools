@@ -1,7 +1,7 @@
 # Zwart Lab Tools
 A list of tools routinely used by the Zwart lab for genomics analysis and visualization
 
-## Differential analysis <a name="differential analysis"></a>
+## Differential analysis (RNA-seq and ChIP-seq) <a name="differential analysis"></a>
 
 For the basics differential binding and gene expression
 
