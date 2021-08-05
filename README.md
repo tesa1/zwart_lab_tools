@@ -33,15 +33,15 @@ For the basics differential binding and gene expression and tutorials to guide y
 **ggpubr in R for statistics in your plot:** [https://rpkgs.datanovia.com/ggpubr/]
 
 
-## Gene set enrichment analysis:88 <a name="gene set enrichment analysis"></a>
+## Gene set enrichment analysis:** <a name="gene set enrichment analysis"></a>
 
 If you have differential expression data, rank ALL your genes by log2FCxpadj to be the most stringent. Then use these ranked genes as input.
 
-**DOSE and clusterProfiler in R:** [http://yulab-smu.top/clusterProfiler-book/chapter2.html#gene-set-enrichment-analysis, http://yulab-smu.top/clusterProfiler-book/chapter12.html#running-score-and-preranked-list-of-gsea-result]
+**GSEA with DOSE and clusterProfiler in R:** [http://yulab-smu.top/clusterProfiler-book/chapter2.html#gene-set-enrichment-analysis, http://yulab-smu.top/clusterProfiler-book/chapter12.html#running-score-and-preranked-list-of-gsea-result]
 
-If you have a list of genes of interest which are not ranked (eg from connecting AR binding to closest genes) use the enricher function of clusterProfiler with gene sets (like MSigDB from the Broad). 
+If you have a list of genes of interest which are not ranked (eg from connecting AR binding to closest genes) use the enricher function of clusterProfiler with gene sets (like MSigDB from the Broad).
 
-**clusterProfiler in R:** [http://yulab-smu.top/clusterProfiler-book/chapter3.html#msigdb-analysis]
+**hypergeometric enrichment test with clusterProfiler in R:** [http://yulab-smu.top/clusterProfiler-book/chapter3.html#msigdb-analysis]
 
 
 
