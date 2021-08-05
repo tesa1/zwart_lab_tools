@@ -47,7 +47,7 @@ If you have a list of genes of interest which are not ranked (eg from connecting
 
 ## Exploration <a name="exploration"></a>
 
-Once you have a gene or genes of interest, you can explore their expression, mutation, or copy number variation in public cancer datasets.
+Once you have a gene or genes of interest, you can explore  expression, mutation,copy number variation and clinical characteristics in public cancer datasets.
 
 **cBioPortal:**  [https://www.cbioportal.org/]
 
