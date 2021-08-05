@@ -12,7 +12,7 @@ For the basics differential binding and gene expression and tutorials to guide y
 
 ## Basic analysis of ChIP-seq data <a name="Basic analysis of ChIP-seq data"></a>
 
-**UCSC Galaxy Cistrome Server for running motif and genomic regions enrichment:** [http://cistrome.org/ap/root]
+**UCSC Galaxy Cistrome Server for running motif and genomic regions enrichment and lifting over to a different genome build:** [http://cistrome.org/ap/root]
 
 **CistromeDB Toolkit Giggle analysis (hg38 only!!!!):** [http://dbtoolkit.cistrome.org/]
 
