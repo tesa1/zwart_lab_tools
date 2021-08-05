@@ -41,7 +41,7 @@ If you have differential expression data, first run differential gene expression
 
 If you have a list of genes of interest which are not ranked (eg from connecting AR binding to closest genes) use the enricher function of clusterProfiler with gene sets (like MSigDB from the Broad).
 
-**hypergeometric enrichment test with clusterProfiler in R:** [http://yulab-smu.top/clusterProfiler-book/chapter3.html#msigdb-analysis]
+**Hypergeometric enrichment test with clusterProfiler in R:** [http://yulab-smu.top/clusterProfiler-book/chapter3.html#msigdb-analysis]
 
 
 
