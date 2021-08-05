@@ -20,9 +20,9 @@ For the basics differential binding and gene expression
 
 ## Visualization of ChIP-seq data <a name="Visualization of ChIP-seq data"></a>
 
-**DeepTools for heamaps and profiles (linux server):** [https://deeptools.readthedocs.io/en/develop/]
+**DeepTools for heamaps and profiles especially ChIP-seq (linux server):** [https://deeptools.readthedocs.io/en/develop/]
 
-**EaSeq for heatmaps and profiles (Windows):** [https://easeq.net/]
+**EaSeq for heatmaps and profiles especially ChIP-seq (Windows):** [https://easeq.net/]
 
 ## Visualization <a name="Visualization"></a>
 
