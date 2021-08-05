@@ -12,6 +12,8 @@ For the basics differential binding and gene expression and tutorials to guide y
 
 ## Basic analysis of ChIP-seq data <a name="Basic analysis of ChIP-seq data"></a>
 
+The easiest way to do basic analysis on your ChIP-seq regions of interest without using the RHPC server.
+
 **UCSC Galaxy Cistrome Server for running motif and genomic regions enrichment and lifting over to a different genome build:** [http://cistrome.org/ap/root]
 
 **CistromeDB Toolkit Giggle analysis (hg38 only!!!!):** [http://dbtoolkit.cistrome.org/]
@@ -43,7 +45,11 @@ If you have a list of genes of interest which are not ranked (eg from connecting
 
 **Hypergeometric enrichment test with clusterProfiler in R:** [http://yulab-smu.top/clusterProfiler-book/chapter3.html#msigdb-analysis]
 
+## Exploration <a name="exploration"></a>
 
+Once you have a gene or genes of interest, you can explore their expression, mutation, or copy number variation in public cancer datasets.
+
+**cBioPortal:**  [https://www.cbioportal.org/]
 
 ## Getting help and tutorials <a name="getting help and tutorials"></a>
 
