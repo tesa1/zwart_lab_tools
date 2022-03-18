@@ -41,7 +41,7 @@ The easiest way to do basic analysis on your ChIP-seq regions of interest withou
 
 If you have differential expression data, first run differential gene expression analysis, then rank ALL your genes by log2FC x padj to be the most stringent. Then use the ranked gene list as input.
 
-**GSEA with DOSE and clusterProfiler in R:** [http://yulab-smu.top/clusterProfiler-book/chapter2.html#gene-set-enrichment-analysis, http://yulab-smu.top/clusterProfiler-book/chapter12.html#running-score-and-preranked-list-of-gsea-result]
+**GSEA with DOSE and clusterProfiler in R:** [http://yulab-smu.top/clusterProfiler-book/chapter2.html#gene-set-enrichment-analysis, https://yulab-smu.top/biomedical-knowledge-mining-book/enrichplot.html#running-score-and-preranked-list-of-gsea-result]
 
 If you have a list of genes of interest which are not ranked (eg from connecting AR binding to closest genes) use the enricher function of clusterProfiler with gene sets (like MSigDB from the Broad).
 
